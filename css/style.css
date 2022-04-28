@@ -427,13 +427,15 @@ li:hover {
     #container {
         position: relative;
         max-width: 100%;
+        height: 2678px;
+        overflow: hidden;
     }
 
     #div-logo {
         position: absolute;
         width: 100px;
         height: 40px;
-        top: 2%;
+        top: 20px;
         left: 2.5%;
         background-image: url(../images/logo-fylo.png);
         background-position: center;
@@ -446,7 +448,7 @@ li:hover {
 
     #menu {
         right: 2%;
-        top: 2.5%;
+        top: 25px;
     }
 
     li {
