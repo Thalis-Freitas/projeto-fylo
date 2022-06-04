@@ -6,7 +6,7 @@
 
 #container {
     position: relative;
-    width: 97vw;
+    width: 100vw;
     height: 100%;
 }
 
@@ -434,7 +434,6 @@ li:hover {
 
     #container {
         position: relative;
-        max-width: 100%;
         height: 2678px;
         overflow: hidden;
     }
